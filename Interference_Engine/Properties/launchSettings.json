@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Interference_Engine": {
+      "commandName": "Project",
+      "commandLineArgs": "tt test_HornKB.txt"
+    }
+  }
+}
